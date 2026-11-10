@@ -1,5 +1,5 @@
 #!/bin/bash
-# Projekt statuszjelentes - kozos kiindulo valtozat
+# Projekt statuszjelentes - csapat kozos valtozata (GitHubon modositva)
 echo "TEAM STATUS REPORT"
 echo "Gepnev: $(hostname)"
 echo "Felhasznalo: $(whoami)"
