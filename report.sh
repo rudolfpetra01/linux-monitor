@@ -1,6 +1,6 @@
 #!/bin/bash
 # Projekt statuszjelentes - kozos kiindulo valtozat
-echo "BELA STATUS REPORT"
+echo "TEAM STATUS REPORT"
 echo "Gepnev: $(hostname)"
 echo "Felhasznalo: $(whoami)"
 echo "Datum: $(date '+%Y-%m-%d')"
